@@ -1,0 +1,8 @@
+
+<svg display="none">
+	<defs>
+		<g id="img-chevron">
+			<circle xmlns="http://www.w3.org/2000/svg" cx="25.5" cy="25.5" r="25.5" fill="#393939"/><rect xmlns="http://www.w3.org/2000/svg" width="1.6" height="15.24" x="24.4" y="27.9" fill="#fff" rx=".8" transform="rotate(-39 11.114 37.674)"/><rect xmlns="http://www.w3.org/2000/svg" width="1.6" height="15.24" x="33.3" y="27.9" fill="#fff" rx=".8" transform="rotate(37.3 44.444 24.605)"/>
+		</g>
+	</defs>
+</svg>
